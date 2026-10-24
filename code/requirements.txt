@@ -1,0 +1,6 @@
+# Core pipeline uses only the Python standard library (csv, json, sqlite3, re, urllib).
+# Optional media extraction (results are cached in code/cache/media_text.json):
+easyocr>=1.7        # screenshot OCR (Apache-2.0); pulls torch (CPU is fine)
+pypdf>=4.0          # PDF text; falls back to the `pdftotext` CLI if absent
+# Optional local LLM: install Ollama (https://ollama.com) and `ollama pull qwen2.5:3b` - no Python package needed.
+pytest>=8.0        # only for the unit tests in code/tests

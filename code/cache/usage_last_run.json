@@ -1,0 +1,14 @@
+{
+  "provider": "ollama (local, open-source)",
+  "model": "qwen2.5:3b",
+  "calls": 0,
+  "cache_hits": 518,
+  "input_tokens": 130313,
+  "output_tokens": 12423,
+  "seconds": 0.0,
+  "requests": 518,
+  "wall_seconds": 1.728055715560913,
+  "total_tokens": 142736,
+  "avg_tokens_per_request": 275.55212355212353,
+  "estimated_cost_usd": 0.0
+}

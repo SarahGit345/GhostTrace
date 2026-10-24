@@ -1,0 +1,3611 @@
+{
+ "1e6042f47a4c513077c740dc7dab6d49c4b4d12eaf23865a8536c765be9e799f": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 226,
+  "eval_count": 24
+ },
+ "7f98cf53ee220d9d23d1b1da5c3654d1e4ede5a34f3de7d78045c752d97eb56b": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "ja"
+  },
+  "prompt_eval_count": 237,
+  "eval_count": 24
+ },
+ "a4fb3d258710ce83ce77aa7b9574825995f9b8442fd302cbb0a17cf1fd514876": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "es"
+  },
+  "prompt_eval_count": 233,
+  "eval_count": 24
+ },
+ "9016373daabbce77b20cb11816d432c13dcb4041cc94b0c15b15503a355caa81": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "b920971ca886ae8b5c7d73582777efdd4ae0a6ba8b98388bfd9b64d83d4de369": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "2c6dd63629d6eb4ff9b5b6d8c3a910f066a06f1da3422ddd9f26104aecb054b6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "5094e6e0352ee10a7c2521e12517080a7126e31f2183690f9ca030b351e659d5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "1a0646e21f6865d5d56e9b391f22a0da124596c74d60d88dc4bf3c936b3ee34c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "188a945749c77b8e94c69c2e5b267b404c8328505dab8cffc3e0a4fb1f15b21e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "ko"
+  },
+  "prompt_eval_count": 268,
+  "eval_count": 24
+ },
+ "1958e68af7d9794b10262abb397aed95b90a29c3c0d3dd6848d27ef5d0642189": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "6b98fa46dbf18928bb02d38328689671e4cd90a918c52cb62280188ce82e36e1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "f80a15bde64f876750d0bcd805df398b488ae68d64fc4783ccbd3d304718f1ab": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "es"
+  },
+  "prompt_eval_count": 265,
+  "eval_count": 24
+ },
+ "b9c57e782af8ef07eb6f16f8aba6f4ef8b61965c52847d36fff54c27de6cf2f4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "9dc44af7281f699d36c80b96303bf550e848b0e1c86c907d5629cc613379ee07": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "d9123062a79f9420e630bf4f32efd87fe06a087b24d385de2a6379ef7278680a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "5a2e7d53679f4c7c06af5a9cce99094d746d716350e1d618f87571818a0a048a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "143471e2d0c4e83312d209962203c55cf17d8727079bb32f618a770553bcdf2c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "23da0bee96a7ac7558baf87dc9e406a71a82d41215a52fe294e45c6abced549c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "1288e34379c88544a14f25e0a9bd0d88f99a2f7d5f8eb5db1f756e3d231e21ce": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "469fe405b563a59317d67a6d6ecf9dc86d757ced10e707a38d8d3efd0c0b1cb1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "94e697842f53219bdd3855cc46a013c8553e8eb33dc60b6b388415e91af58f85": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "ja"
+  },
+  "prompt_eval_count": 271,
+  "eval_count": 24
+ },
+ "0d7bd6f4a7f82d64caebba2cfb43c33b04124b79be7a06a4031fac1307c295be": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "4093f98cc2c620770388732499a6acbc79b73077da409f0505aa163f37ca8fa8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "90d8d85f60d6954e00fdce923aad141b16870f9bd79324d6e63269145ce34494": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "4d8c8da71821a03aa02a7ad80319892e435a31ba391b4cc83944a79f3ee12081": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "eb57a134ac9effc2e7e02ee121f8eb50d2d53cbc228f275329bc4560a3e65fe9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 23
+ },
+ "82f89f1bc9d949d7890854748b39c516136da23ba197454049d550d7a76dd3ef": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "fr"
+  },
+  "prompt_eval_count": 271,
+  "eval_count": 24
+ },
+ "9d6110dd5e28f0ab1b5060304e054d9d50f633078c6bc44e83d5c438ac9624e5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "d4e77653c33c5867899880a9ed9424c6804d20aafb249bdc5d45bcf8ebc14100": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 256,
+  "eval_count": 24
+ },
+ "8c40c9f25e400d48e4f934a28cbe41ea2cf3a0e21e3e19ea99f563d61f14ac7d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 255,
+  "eval_count": 24
+ },
+ "9dd50cdbc3feeaaad21e9b29a94a9dd7a746ca82095ac69ebe6c7e91e2399e2e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "1c57d317a4168b26eef02a973cb3eded25eeee6ca2a3c7cacf22a6f72fede272": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "84f9794d605e8eff423d8e6d9df83fa7ce01b589c55a70078d633986cf3c81c3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "b5ddc5038f5fb97a72cb68b664e325ae1e6be910f67960791e6f9f65e1cceac9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "f088a69d6af8a6f81bc4f007de26f80b7c02141cd63c3cc65170529a3d97481d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "ae363a653f0899d0e1cb827b535d67adc50285cc2c16565f917d4a80016494e3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "pt"
+  },
+  "prompt_eval_count": 266,
+  "eval_count": 24
+ },
+ "32ef012e2cb7feccd71ccfc9ea26990807ed36ed1eb6eedd76daf20d8a7f3fe1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "3c440b699ad3c2059ec609180ab7045f5b5a737700449b54e239e2cfe8126658": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "7fc7bb3c49175535acf84f632a25703e70b9aebf78b364f0351670b4b0466c4f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "e17313f5848765a3ef7febbf6756f9f89b133f4569bfa97f79e058cbaa812222": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "bc88d982ba2caee47bbb2693ec2d1a13a9f92620056b8e1706dc8a2b39889799": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "90121364c6010a33e1a8f67e7e0c6284d1b2cb9bfe0fb79b32fda4f883ff533f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "13a76a962d48c7f8912cbc9e8780df3f35349ae23a3e5d6c4577e986cafb2fb9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "024187bcc89bb8166a4d4f68cb1e251a70765241dd924f917485fc85a8fc5e43": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "90fd7582000d068d6e3ffa532c7ceacba2d6c0024bcc1ae1061fa19b6e40c407": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "229ad508cead7b9cf8248e3d3e5e2de03bdf8750f3ba11f8e19720084825f029": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 255,
+  "eval_count": 24
+ },
+ "023902e54018bd89802c770bd342c11ee78bc19c9b76037d4dbe901303124eca": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "fcd9ea2bea7e34831d20055cdcdaed5ce00e2967bf3f73c6693251034b113a01": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "c8e7bea0a170a5cc584a36d07902949cf5b559473eccdba0e768a7e915c7d245": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "c2192dca74f666d7c48fdfc1c0c471b3eb58f02f2a061c6625d5e0d7879b80cc": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "217c73eb2d286a9901450b5cb0e2120989ebbf3ad5bd0d6b6529d15609211846": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "c23a6fa602134b7c0da97045483262baefa35d0f781a1f7e6d97d08e6281b909": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "7168c56fc5bcac1d15fb94a4bed6bf758978c4f1139cadd3f6827bbe59f62f60": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "76d78d442ae9e175fc4cd9d41465f4534c95b3fe245e99f3dce5bbbe47c6a1b4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "6797c23ebc9bcd99cedbab800f5715ddf069b46484656a8fbce3848ee0155009": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "54b28ceb7e5618a134bc83952218ef26aebf0b6f7e5c31ec12523eaf138efa18": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "f6505c0679437426568788e7221ae873e7664055696b05a11d1bfc91a2dfef4e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "f3cebc3bb559a7a12079a3e94e36141aa2d917c7c4e0d762f2577eed77c367ba": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "4f71d133a1f082adc6f937d848638e5804a8bfe74d23d85d5ad8cc7035eded4a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "4e752d9f933e5dd968503299e7c2dce362d1de3e756475fdaa5e4849493904d8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "182ef2d5bd06306d51be9d4b591795eabfdaede8525bf3ca109cb127cf6167db": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "5ebb98107a33959e577798d01a524d170c0190104c5c55358cb038f41d9ddfc6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "4f38d6830f399b732c5b7fbfb66a88c84b8c19136b943d0975e3570a3ab45b40": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "2a8325a6b9323a5d836666f3844b24d37f5bdce069117501dffd05a863e17581": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "a4d67f1a8272c5cce07a6498b58dc22746e04a05fc4e5960b51c1b16c6de1d1d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "9794edfdb1f5d82ec30d264c6246b010cf73e2f18c332785fea5d7c7bb2580b6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "f6d029c95b50a1a30218baed706ead916d26cad21fd1d5f70913857c3f45d37b": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "04d17b4e09fc1339fc296f66cdb07ec6030aa341271dc7d2da22e001e86c3de0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "501996f05a8559ebebab7c258914e404d4f5206284e1ffc514757aed751e6ae5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "2311f1dbc11ab21c5ea0a89d65b8497411054a70fd402ef45beb1f8491eb4a94": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "005c09b0d9823a739953c0fb0897bf2c3c641035469dc4f6e0031fa2099b4dee": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "d28bae0e90468624daff7ac7052a85ce70ac9fc67025d0e3623a568c6de99b47": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "df9d0dc017d87d398abd707c97b6399c80f39ff1c5a064568607a01eec69decb": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "6722a804f19ca41d28ee87cfe8f54ea76859b31fdcf71e56c5141d48d3aeab90": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "80b4fab6c5182a8897006618a6345e01cac8ebbef2187ad01ec87e8f8bba86e7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "8e24f89e0fca76e544285bac20495af870a2bc3c201d010389d0b095069af9f0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "378d7371fa1e31632fb3e3069643f64447b2bcbaea1d0ebe725c91d56dee09e5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "7233d9966e506ae0d99437032bc684865a329111e3721bba8af553fbf1c61692": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "4a0c46131af62d897947fb98b171f3e4dbc74944ee3bb0b35a798b36abc6c373": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "ae70482ae640ed5a26b86b4ee4cd4e271ab9ade867744521cf667bae9cb843f0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "04d3a0b27edde635f92f478b1ad72f6bdabd882484400f50d7a214a851cd8380": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "8c5f8019607dd83c5e56200735d4366b42ded211551d6be4adb4975f6a249522": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "d81b23ecfca2ccac914eb71a63c09c8855d9c9bba5bbd259d0846aafdd8c9cf7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "4ac3cdfd152b4c87331b2f7ea73d9f9da9c388069864ba6ac744bce0a7448a1a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "e4b7a393b095f894bd62eb215242a6d353bec277b6de9a3f176cbceb5d1b1849": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "05f9ea44b21fa2e46bee2fbf7b41c2863b91b88d2ae4ab8c602cb786e527e86d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "f2c5b31ed73cf724b388c44185a77dfa9951b5473dd4b6c3c0b5933f7442fe7c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "6fa072b08457dfa533208cb2fa1e27e6655f1819697d244580274b09993803ef": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "235074b47a9270df36aa6a6105f83c074d1c54500a228c2b3094c547197fe15b": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "b86c23fb5bc869c8231a0fde1c0ad1ce646b47df18fb2b02c1e6ee5fed471457": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "98430922e960e067857c5bc91419f00c1c265c1c6dde7081726c00ec23877bce": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "d846338779aa816b5d3f4186a46e35f36432830e0eec6cdf1b2a678f523a1440": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "5efec635be8eaae904f4c328a1af6a245aec3694873f82f8d9e5f2cca7de3385": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "7ab0a9b1cc11ab7fa53ebf3b53c9127b9cdad503fca92f609acbd22125bcc1a9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "c11574c498e28074fc9a3c1f8cb865715dfc18f8b2412550780162130943dbec": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "aa804f6b335bfecee046a67f8871f615a93fca9e372c0c9a73b24b123bf00497": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "7e16fe9a9f8326207dc6781adca134ebdef21d384bd12fe813b9b124a1fc58af": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "da009e097a17fe7be3bda891bb06fd1e455d82df97b4d303df3c96ffa21d6dd7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "752c7c9ceae0abb24806e982107f71039e408be317c1fba0981245a69f67b56e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "bfa0020717910a3f3f75d53730d2a2d262ddf36b71d33b35e327be156da1f2d7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "893591607d79e999fc4d9a171909a734e44d1c458644461381b8f594196e1a36": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "979090ca0dae805bbf22ec005a4937489bc6d7d77278748d77b3b6dc6d2e17a4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "4a5d41563fb36f15d5517e36e55425436d3d78fdcc37bd2d627db75e563cd278": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "1b90620641a5b1907823d084857e23f19d7a4a652c71cffca0d98f92d44cb26c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "afc8c9c63ac48fa08da8e12510c47c46bdbfda7814149e992aff06c8d7d5620a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 244,
+  "eval_count": 24
+ },
+ "8743af45e05996b0c969ba9642ea29ae7e96f7ea134a269bf3620a2866680d32": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "e7e3889e336b0a6b8bbf5c8f7cb7c1a7ff393051fbdb6aff998b50f1648707fd": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "69749ab09f5886764012ae06326cd599a99b0c5d61161b713d635a5be829d72d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "2d378ea235975c2966d2bbd16ecf5cb0a23c4ccf528280b5022290e07b162db9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "dfa5a4895661fcefc4c9c384cb64d0cfede35bb6bb0ef402231d628abca4ea27": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 256,
+  "eval_count": 24
+ },
+ "c576caf1d22ed0ace4c41318634e9e65826ec01d90c9afbcbd971e9fa96758b8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "5d0c8b70907dd48ed4720a0a48e380c5d946d6e223e4b9d82e695ad2de83fe46": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "f19fd1a9d05ebd9c3f2aa2819ef4fc0d5ecf1af10be0674e5b1376ff98aa1d17": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "c639a2b0d86627fc44e05d3b8d9c96a6ec7d4a49d97f2710b079773b9d19476e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "f3b906b0d64c3b4ff19a1c486fbe78a4072d6656f72af54b497e1b36205f41c7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "27f648c4b23eb7abc64126c9f22a1f83bd017635d1029afcb6b2175d249293c5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "2b6fb84a16807992116a5682bce968465bdac95b1e1797b3fec4dc41f0e460c7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "6ceec00b1254b3278cf531f3c3f1f10163ca92622c54d80ece0d5fda59e4150e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "e6ea07fc966b59350577ecb0402fd6da2563785e3ce64e5e3e827626796051a8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "bb0206ff6f7d7083207be44907758d555f2506cb722f1f8056a940b317389ec5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "8fb3aa97e73578b6cd2ef6ab86e3fbf3f42ff471774f56108caa0157091de239": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "fec6679f89608e51a8533170ddeae81908eacd04b8f81eb6a1979a04fa5b028a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "d704e619b2f88c684fa74f1eeb42123a0e130672abb13bcd1114d4cd2b7312be": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "71f32c00a6a97866f6db30d446863fb5f9f122a0cdac80764d46ceead280b79c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "a3bb19a5e33aa5e74d1d7038dd71e4bddc8bf216ddf95d18054738763d5d2e54": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "8a0477abb4e05f23c1791a48becc8e6d6b0b5d6045f406a6cb78447c61459ed9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "02a57c25f14e1ed8ba6b1b05c61f26c6bf6071d52125cbc905312edb8a977cae": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "b683070c087e5275293f1a2a0a1f0765a52b9e63554fbc16605f78dea0ab2769": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "23fa6a8a37be4cf479c1d28221213fa159421fed80cbd3a56bc4a85ab4d49b8d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "c5b61097db8bc1d4e8da93a1cde44d431ec51dcbbf03282036ac122f7361cbf9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "19d0cbbc688564ad5cb531d27ca2c97b3a2976d458bfdefee0d22a0f9ffedd04": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "3c73b3ae1b2f82991f3263ad51f1fca3d0f891016207b9c01ecdb790e2353b71": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "6e672484d453a3b1928c50903d9007f81810219f55b9acc33c65f95608d6f89c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "d6fd4b120849a8e6791182fb94e339f43aa295d575ef766f3859f49ee1cd9f68": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "b08fadfc77a986db4ab979feed421857fc0170fe0369c4b9cca8702046ed8271": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "2636e8f54932ad98f85ad39cbebb940cf07ce454a56f1ffbe09220ff30837dab": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "9e7b40284d0a47579ea84ffa21a258f391d69659ba27442135832252e91e7ab6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "d47161cb92bf80737b866d12d0dd62e9573853824e62505828f8892896cc88ce": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "e17825fb72d8bf547715d78c3a0c41adcdeb2d11e0bf4f8f5befa872f11603d8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "25bd19c40dbe170aa24dddbb0d9f1136529b2bfd2b0a4f526ec3ca55c27423ec": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "35d5660e2c08933e73d73960304d1f622b5d4f995e2f61644f8c2dcf4d378694": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "6b628e5778c75da065fb5797b2dc1f1626f9c6d99ee64505b371d07223171769": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "c432cf9dbe7d4141e6e15c3d53d1211db6bedc919e783f478c3eb798c4521eac": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 255,
+  "eval_count": 24
+ },
+ "332995071bb493dac8dd98a900153581bb99e23359801510b6ca96b692d49d70": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "6d8646b486c1721bfbbbc58e83c1fefbee2ecd40300024ff2103cc5f6ea0b352": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "78c3c447bbb407593f001fd301d0870325cf845ca679871fbe5fcd94862a0938": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "5777c580ed6674c2a57def1f849b829dab7e157e554728fc065d2030d834ec0c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "402a540cc73b39c7bf9f84da1d44d26a3413ef31c8eef178b3c36f5eb6e1e6d8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "63bff4966779486bc349fa7466f01976973087f0319074538b35825f771c8457": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "361ba50bfee05ec81dd9864c4a79124c0eeecd80767af44ab73992cb567a68d7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "2b1f5370b6fbbef98f9bf9c985ac30d406bd1bdb9609b5b4883111ac35642105": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "30cc5e3812fce31dec8ce4ceceefe18c059a4bba6c5f3b9bb9cc3a3ca524abcc": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "16855142e7a87867708a073cdf35d94fb32acd6786cf43e4798b65006dd510c0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "0f80dfa8c95de35144c1d873535161369c004a6a51531766bb7302334a3c0005": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "343df54cf88289d517c084c5b7b0a07d734f653014df362029b7a2e88b6c4897": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "27143cde6e9f63a2571ebca170c36a6c7bef9a5354037acaaec40279ab781047": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "7b8e089bcd0d42e0b8afa1fe68122bd2539325d3638facc12a7897f387934989": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "42838fe17e67cf10eced2a1540389348c1472a57a4a7b2880b123fda7748cb67": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "b4ca62eebfd5269fab5ea1e8917649cf37103a36d5462b6e6b3d437560905876": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "38946a8f67d37d4381e3f5da8adfebdba20ea71cce3581e3ab43a5f646cbfcb0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "2a40b4ee22cc097c3171ba1e918784a0c805ff93b091f76eaf27b23ba2691471": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "0b3c4c15e2d63a0800f0414b66e3ebd079c7cbee6c7ff8e4a614fc0eb9f220b4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "e4bd8cc2b8f1817a222aad223e17ec7332f716358c44ff3f36f231de285f3e97": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "9f47191184d044a763c2d2c14b1b267e1c5b90658d9ea0a8362db37420be2473": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "c3586da9144103aee30b42b858265480b0ccc9fe50b18ee8dcbca904321a32e9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 244,
+  "eval_count": 24
+ },
+ "29a8af87ba1f8732a9affccd6be47a2561718294f323ea899f160e18cde29cc9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "3315b7cf5b566a8d5c429a301f82532ed2fd64af7bb7b8d35029394102b1bc00": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "d92e5db096e8d4c0ddcfc609b0c75bbc15e51d530126c257812b2fd4c1dd122f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "f42c4ccecc5ff4f6e961b9eb573c72365a37451e1753f224fa4c18125a9c6eee": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "245c6a5f02cb2d0c84803f2d8f6fb3ffc1004df8b8321a5f7ec5d60753fa6260": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "27d50b1d9a9e262241331ab384e6d9aabc305124d192bfd74dde329b1390e30d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "67ee62999ad292b7df0a58eee3a05476b7f3b0407ea4e1cd6de7c6012d03e503": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "87f04639f2036a14e022c2d96e90931655a5afef084f4093288aaa5a33646630": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "1f331b99b7a25a77df52631422ecde378112437727e599453b603ea52e02b59a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "11e5ed6ac199c8cdc4dc007caccd681f9c4ca3f9d387deb86ab78a5fed96cea9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "b3347ef5e9398805e663d048091fc6222e16d1a33eb94184c1f9a8c459a54bc4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "54ee7a6c3f479916173b6985c6136c20a89d1317807a0f8a6491e64cf9d0d5f9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "93e3f552ffbb7996d25ab2cc85d5742eee4b8e35c44e908d23eebf83fda117e3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "84242a86d2a5da7ab7a75ff1affd46670f6d28ebe6260200a6d1e2c4698ce11d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "83c407d06219e52b8ce3f96100600fc88858e01ecdfe3186348951c33bf9b54f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "8613354582248f36af8630b54eb2b053f2c7eb380ba53e87f257e86ac1248150": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "c09775badf6ff83d745ff03962af8639d2e5efb8658b94d786c925e91b8cd4de": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "d462cbf578da13256b8d3c860b66b5c2611f3d9a2b140a4d36a0d62a00db1443": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "cca546e8c89ef7673c7999b8738adc2ad398c909ef0fb7a31780e60647d6928f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "9c8ff0d8e212bff342709a2e4e322e16ec944ca28273290fe5183d507636a467": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "56be599769345c0fc04ecd6942d7867f9d1e502a3974bcadb84a8520d0f7e52a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "6bbff5a29e86ce95c86a62bc3223d6707a7ff41834642db9996dfd4df72f60bb": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "0b64b9ae9eb70c132ea2d4561aade14a0aed11b7364a889874db7c2ecb177c20": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 23
+ },
+ "3741d83768a1a6dabde180b553b79cecba05cca5db473ba2bb093a77a8e6140a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "423ad80e59ae85d72798e3026c093eb89657d1f3a81214126be539a9d1ecb85d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 243,
+  "eval_count": 24
+ },
+ "6de5f30257fbdacc05bcb129d17ea58f1853a61ae64bb728cbb5847ec1e80b0a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "135c10da79647ef3c70acec1ae7c8fab804a3d24fc15d0d7c1ed8370034389f7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "01e34122f6e5b40519122643be14134ae9ed64ea923bd5595b94666dde684a03": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "f284e8158ac7712d533e45643ac94ba6ce5588fb2d4d587e30d56fe144efd486": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "85482b5aaa953b30142ae8601e1ade8c68a7b0b1bc6772c39062b0064def4d3f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "a2b75e89b561e57978574e6c24b3116a670716b50c6dd5da83c1ef59af5d2beb": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "01c0cd1a5c0b6f4083e7a311592e1bc3019e598785f24f8a6c69839091a0763e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "144d3a2410aacfe4643ef6df0464940db8ef1bd02733dafce7ae6cb37cfb5530": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "2fc7c777ac70c3c458ad8dbd7778e9cb8ec310a775f8f18f671ce13e9ec96791": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "624266fd6e6954f76ec7a15fc5c2a551207c1d65e34834ce9550966baf5fc829": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "ecbd0f2041424f20f8bd2ffbb879c7d6470f015b5559acdc9354fb58a9110f8a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "ef2458490424c4c181969518aff6292496fb5f9ae5a430ffc4316e12c024a018": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "172e8f5d12f295a37bffbc1e4ef871a3f67dc4ecf1c5900b190253795870bd14": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "72d57e77fbfdd30ae5f356ba1dc3249a60917a8ee8b9f92911e91edad7396f00": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "4f5967c9868112b3cb007695d1d1715f8903e7ef6d770d1772c55d7b34160a47": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "32e80eda090254b242399b7b3c57924e7fa4a84d40ad7910e9eb79edf4a107c5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "6992d99d0882b1443de2c50444cba62cbcf255124dbb80fbc9f18cd5ba315c74": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "4baa823b202a110f57fd2850be96cb628c7565449af90ffa2a7905ec00fc31dd": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "2d3b6842d387f932932c81b6c181f91bae878651c3a40ad191fd2ed694c002e8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "a3e372dbb6e69d75f0ecb3a0bf392cac3f8106cb298f6924f5425781c7fed476": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "45d0b262b96fb5ce77d1fb586144d3d383ac7b2a9bd5a813a0098b08280284b3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "6aed0b5e147bb73ec7e5691f7b625dec78b488aa471f16bdf2dda4bf9de67e7e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "93da70099963ecc85b8486f9a5aa2797845524e801e1ed7ce1a1c90197baf888": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "04dd282b06b6baabbd7881f258e372c31309717303d49ebdd1cbbccc54878127": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "309c02a30707a455b05031505c9829156183dfe09d4ab320c83ae24d8f6ee4d0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "0df39995cf79b1378212178071105e9ec349c474fa19e5cac96fbacc35dc02b5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "3300109dd0219bbc1d42d01303b6643966dc2d5a0ade3fc12709fb2af181f04d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "10efb937962c21b799849f42b2e5db82036eaea5513eae5db13ff9aac1854e1e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "c8ed653b285f71728a30b86128b5930e8c35cc929c45afc255276202d696642f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "41d1af11c5e0f7572cd6116f81a1c063a7b5d050dfde17371e1d56d582992cb1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "30bbc38b39eb62ce3a1d0c5d947058a194cf8052ae50098809855ad7821cbaf2": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "1e126d5838134a59e79bd47ec78e71f8defb37c9ee24fa45b02a8d91002cde3a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "42799802e78f63bee26c843766d70da3805ac8e9e54fd2ec100e9cecba526e0d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "b6c69ef56f485fbb4ba8560eb0debba87af386888cfa40d76824ee9de4736016": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "d745d6d57e34ced2e05fe9a14884ee13e487f0241d46d181681650e991b321f1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "00b1aa082f5b8651ccb55fc1b6cc711c8bfadbf2b4225411e4a2867d418bc59d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "1f7e8a8468f11a9a4db4b6c5bbecf18e1fda3403e759be6b6a7cd1c6858fcee3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "c537cc9a2178d6397de37daa74040ab998ffeab3a2cb487d9a74f9949e6da792": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "01b690054699fb588d2e62ccc50f7308a0e9bd9e7b4a28cbdec0edf20118bd17": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "f7d6494fb81937c009a974ab6d3cac7e6b192075f27801537f08cb1102292398": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "6b35a2862f35faeb84379d91fcf36993e8e8b430d1b08a2d8e4e94f9c097878e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "85da72e8a69888fc06c00323c2bbca311f988e08293d4665014ba980336b592f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "e35e96d83a16c4c24660eed8640593a1c8ab28011722f79b246b9466c7a8edf1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "c146ef2acc5f42c30c825d6eace4dc4308e99e58322cece94ffcb93a0f84eded": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "72504fe4ef1cdd5648edf9023e4baf60579a0feb59b645778153cb87fee543a0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "6a76165e4c499b720cfd0a63277c003e2b7250863ab4f76d268f616327aab126": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "8bf44a542959374c4d746c9a7e17fb5233101a7624c61461a63d10a03d65d5c6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 23
+ },
+ "807c2eb985ef7c6b05b80feea3ac323c9757df31e39f87547e515c3199452209": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "88843b688511f4e285ddfae47b2f8522d1571b09c9602b58c601082504757621": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "71a1352cabfe41a0befe5cda842700d57cfddb532c08d0b4f90ec1e1f9de0c56": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "7fd48b6d7ff9faac81f68f74ff95efa8ed54207d0d8a689ca750407488297b8d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "3ef71e1de6ed7cdf5881990aff0be89731b80b31a63116ee75ad232cf7b45113": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "cebbedf777782d167e0a72613cdce1183400c08c3f653600d368531a42da6ae6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "44226d4678bc9df619293223cde39ae79b73acbf6651e5bede784716b52c0023": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "b1a117fa0f348eaf2a154aa53bff97634863dc7258d45a7ca66fa03e048084ad": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "159b77a881ef35fd0d073e2f2fc38b34f12f72971acb1e6e59c964c2a5f57c3b": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "ff5f1affc7f1f1508b36d3d547aa851c0e1031301f4eb47d92df07b62021bff9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "7dc57ef47f5c7006f8c78fdee6c89b5128e5e57ef84e50b68f2099e49dcace60": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "c77f0eca7edaa9a6d3d891db0eed2e96dc81650df06271d695a28ea4393cf44a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "4dc916e485e4ad6027b2bcf14600c630bff94a97b9c7ea66d4525aa7dcb51d78": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "56c9215bef20ffd9e318312775f9ef2cccb041aa21662abc50903e966d50d995": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 256,
+  "eval_count": 24
+ },
+ "e6bd0e111fd51045fa99c829dea1b3aaeb25e0f4aa5d57bb930fe766988a33b8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "62cd6e4b5204ce20e85b3c62938736efcf978f3ae581fc77a94d6971805cb148": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "509116fbd941acf83336405c8a29b4222d3f0f862fefe08db4040f05533cc0df": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "9e8e53ce19be0d8f526b8bedf26e8a16facfa62f783d07b190dde94bfabbfb35": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "26496434e8050ba563b6840bc451cb91388fc8f3118713d6b2695dea785da053": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "8a4381b94f1fed99086919c7a92c1ddbefe543b5890c8cd922080de9ddbb43be": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 23
+ },
+ "491d21a5a29a46c1622831beb804f0c55997e3a4095fbf8c37bef4c0ab3eaadf": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "0a0440b0452e5283095161b54bf7f9db011d09a4e4d2e959eaed29d5c149bf65": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "ccb022d01f4e67c4e5fa3775231ddf40e32023ec289134d4f4e534ce0940cac1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 23
+ },
+ "b410c8518579c1765f3c29438afdeee5c108e3bedaaee62435555aa287cf2476": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "52d4eb58c1cdc89201371b53ed1ac921464514eb662992dd707f8b56596c2854": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "6bbfbf2cdf75030e5c7a17f3d79a7f6e435c684e9feed5b781de15d760ad0331": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "c65733cf45af26526ba1eb8db40b7fc30be593cd8b0a92ee0b71915e080ea033": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "4dd3a0cef0980ab1ff2ccdac3ef43ed214a3132c3f27af83cd99da19a17ad2af": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "a166099bff46237030735122690ec5f2dc57f82463a9db35fdb5c03a7181abf9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "feb29a04460f31f52ef37b1ced332df82c75178d173fa166fc8aafda1224198e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "783ac23fee17d30d1550a7e185b4d1d089784e89637952bd5d04c9cec881b6b8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "94a7729b1a29c732dccd6ab6dfd3346068e9159ee1e9c3dc563b01135875b1fe": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "1b330c4ed33956bd7286001590a3aa8e09678c5c45d12514f8781cc16b3bc155": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "28e5318d7042ae24d539d8261f0a2939512e6c4652b01979a5b66fd5cc83aca3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 256,
+  "eval_count": 24
+ },
+ "0173b3dd3c8eb5362533c982211f5fbddc6c1b4a02b09c8b733a33480be1d498": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "fd5868cf58ea831ab740177572755f667398ccbea52be9e63e68987323222b61": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "47f33bbfae01299fb7f88cd2c51863da70a812bebda81034c94eb159f00557dc": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "0050bbbe29dd6036c9851f7127bd7c18a6e7126059c23d913da76b43fa99a5ad": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "3e6e059274ddeaf938bc066f8c88def7072928f4e0b705ab612c8fb404f2b330": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "a7c1b54f909f1718a60e2ca8544b81c7ab3855a8d1be9b20ed68d54c08662d65": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "f646ced6e9ac4b76d53ebedcde86e9d17f615905968c5b5097b940583d9ecf4e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "870fc11a8c4e525a77389343a90bccd70cad9810c2b7dec23346a1960ade60ae": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "54c4a3a98d0892a2a4aad6f96ce85dac7dc4494eee28ab6218bee0eff6c246b2": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "0890185a19407d05752bf126923c05e12c9f161a82d2e12760ec62842ef99140": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "ebd74d7ac0e035f7fa50a75671247a6454f13ba08c710c8a3c3245944f7a7b30": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 23
+ },
+ "b5fb328724a8c7cba91b981b213f50a5aec0b70df21b4f40884d2caacb0fa748": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "e198dd17762a48d8b361f297f9770ff88df0cf64073284dc94affae2e155bac4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "69c847b316333cd4bfc7a5bfbd50471bc4e911ffe505ae2c837c725345b724ca": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "08cb078682169972c94f5170825022c7166da5887d2838db0d558dafd2afc168": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "1539f37ad2bf05b5b4bc81592aad987c5605b32cdce535feab991bfb067db907": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "d689644190d79b1b48c480da911558cac79426108547ee75a09394d106b81d72": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "b1b624edee2e7924178429cb09554b9460e49c52e08d8776a8888ef694a3a5c0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "601083dd00661b9480e48d86a2e6d7a065a20f48b530687b04aeb274d908a238": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "bbb48f44fe864bb62a6139da9a61756f1bf4c10d4d8b73a165e7ec29c889885f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "174dcb4d19dd15f8b407d015c3ec9490a84798524c4744c1f0be4e2148aac0c5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "a38515a284ac1baea5aa8d15bcd37e25310db84aaac47ecd95bd5417f8e12036": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "b2e67b0ced254783662d6e47b855e3cc550881d276e0eb6b5c6683af93ff4fd9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "6f0a57a59c5fc1b4ba420c133fc60c8c78044f3b624d9943634744496ff08e4e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "16e8712edd84b4885db49764dee815446e8ca6dbbf6b701bb0e96201c6a3dc34": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "33445f931710fddc88b65c4ea0d37bbe4623412cf288c5573925b0f1cb1e5656": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 244,
+  "eval_count": 24
+ },
+ "0e3eb076f101cdc719bf17d7e8a7a02cc8100f0dfa1871a524b405c21d3f96e3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "74a5e616a63022a6f5da5354ce4248d6b8e3efe604038499a86739337ffc2c77": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "4dab37baff5dd79b7996118360c6b208bf634621cee4c790cea30cede33816f6": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "370f22fcf162fe4b2f0b76d20a119b783ffadd49c4f7fa880c0ac214a27becfe": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "06ed24322e2c4f0b6262f34345fe3e68f4e38abdd9c0d77a08c538cbde2da39c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "eacb9afa146f73b03c5073a90e6a88017f9a258eefcdfb0b24917fece0a2c93f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "a626e033c4b209548c55ce31001aa7cab8853b62cfdd8b17c551aa8552ac4815": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "dd30d77e5ea9f7d79dd275916b0975f9528d2521db7b587293ed98722cefc60e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "572a72d905534a8a9dbc30c6b9e462b381e94059657490afeca498e3cd4e1d40": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "8b026d18a2bf31f4ca33032623e99e49933917a0b2d50c9c1e3b0ce074745ad0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "bc20c608b187b871fbdc6e1bb40cd60e7ff8f345aa9586bd19ed7f08a3a9fcf1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "902f5c813733a56a190d6bfbc9b19d91da2b5234768813dbc39cb401accd1557": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "cbc5897253d388693b48b2560e7273aa22f1b5477d8813825f1443cf0b774387": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "c4b701f2621c8e555d98ebac2bf4ca337b75f84c95357c37f6b76819c6af33c1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 244,
+  "eval_count": 24
+ },
+ "06f233cf1f49acfdd7e8f90021404e6024af781c0f9b0055bf5d63ce24703dcf": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "0185d28e7670ccaebcb32635b8211e0bbcb46a3b3947fe93ad1bd5673aa8126a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "038af3957508c792b6928c005d3eb252df3949f2d4bffe24e131700b565bed44": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "864ef08f08e9fde031ef7c61bc47adeaa1fe8205074222f7af71ba1753f690d7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "550b74df971a58ec48dfedd5ccb8be2d2403bc7e73a93f4c95ae28925f29c959": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "5cef5e1815152b52ef103874834c58db803d75b55d941e1e561c94f55a1f34cf": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "75ba35d2d86af2278d0b63e5eadb258c4168e30f776c9d2c44467d622806efaf": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "addc8818e3828762b3a709ffce6a42162ad6ec7a7181a402d7ed5943e8515522": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 23
+ },
+ "00ff1c3f42870e7e2282feb47639f1f4880d2e0c648285982b593331d4ba184b": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 257,
+  "eval_count": 24
+ },
+ "0d72bdaf7a30095145fe6dab52aef0023389808c38fec27283444c4f23fc2fcb": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 256,
+  "eval_count": 24
+ },
+ "d954e35727c02b3abaede6b19faef04ed46c219b77c379c512685eb55020246c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "eae48fbddd883f31468da888fae00b663d36e1bf3ebd0c7ec13e29bc9a098e8d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "a82b55e132a0af8260db66e7e8327eeadedd6e83684276b48722bea7fd51d88a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "a060facf96bb1458508d8c262f16967bbff0dceff311dbb8cb8e4855ebcd4e0c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 252,
+  "eval_count": 24
+ },
+ "f6fbc60f559c235fd8201da3954047417513085504eaf4348b31f0dbbc2062a3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "f7e8cef55f23aefdbf2c11d0120acc9e6d8fbaeb1e4e9d8a524e2bc71c8a0c93": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "d7827d5124cbe33cf758c3578c5dad70dafd38a89193c81aec7f54e47522d26c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "e538a8960dc640672caee2382bd5525b21de9e1c9d440b715ae259cc81ea40f2": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "af1b5f987b6d4ee9ef55abae2f30d98ca53371887d9506e7546ce5cf1b245cde": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "b8305e05f70dc130cde05bfba227448481ee248a2c25327b4954dab9a8f2eb91": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "56e0061e23f98838f3b08409d1904df16065f219abbde83a522a8da2b00449e5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "632ef782c11082c641ff6572b3ef53c771a7e3ca2569c4240e1203490e2958b7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "b894f0d9da0129e6fa809a7f430a2e5846623af9c70fe71fe6325c4ff05046b3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "f030567d71e9fb5aced7bec556761eb62c6264a607879508ec754e432177bd6e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "f2791d6a7ed564d6d6039c258baf75df8a05bfdd64a21edc4d86236711f1afe8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "3bf405f4d344aca12bdd8a293d7d0e4ce2fb15f87607cb6ddb8c8dad85b9fa83": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "c16d266a198665f4e7df3869ab441f21647b6482621493571f3b141b758e0ed2": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "c6a2cc444bc4d186bb86d1a637018473ac0c3b51134eedaf44e680b0174c37c5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "229c3133954b1308a274d87eab2b62e59c7c3a91cfc6e6803c6b56c4c0dd6c62": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 238,
+  "eval_count": 24
+ },
+ "0d6b0aabaef4ddcbb91f5da258ec4745b7f27e5f7fa50d632a6c40cf0f68373c": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 238,
+  "eval_count": 24
+ },
+ "8a1588a47ffa2e03af3884cf18f775e7735095e627781146a9f324adfb480994": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 235,
+  "eval_count": 24
+ },
+ "df4c34f2a57d493b4be700d0152879aa406cd4faee2f3c40c7c98d88c7417e05": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 233,
+  "eval_count": 24
+ },
+ "bbc1568558208a612ba61388bf1cea6428d4e2dd31b2335a39ea8e87bb7c9bb1": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 236,
+  "eval_count": 24
+ },
+ "ee0a2cbe0d58df68d768d9b6f9090e42af72c563838886c700390d3fa1cad2ca": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 233,
+  "eval_count": 24
+ },
+ "6c40aeb06da053e58a8c052158210492b6c6b85c8598045e10c7f2b9b1ddc2e8": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 239,
+  "eval_count": 24
+ },
+ "af93dfa5f6d232d62dc631eb4da0aff023a5bc216ebf31438a5fb23903f94bcd": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 237,
+  "eval_count": 25
+ },
+ "92114337feb1393e587f784057a444137d89547ae5b6412948ac54ce76f4bfd8": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 232,
+  "eval_count": 24
+ },
+ "47d6c6c2a41197ec021afc0a1b3c3422271665158b56d50981591a26b77dcbee": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 242,
+  "eval_count": 24
+ },
+ "abaa543878b6fd725a56680c97176daf783bbb7576e4e4554859b62f2ac054fa": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "0888b89bce37533804b1199deec00ad6cda74a0385dc44caf2e4d2afa012f566": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "ae2854baea79e438ed29c771af9c8e00e74f02135a2ad627840536e15e683ee8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "758c1df910c75b3070f8db4b1d0f6da2ce218b7d6a48b53b73a79d02b7b12efe": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "fc6c9f833c778028157e0c970bb808500f0519fbf07fd50f0ed56a5e0c5c2d07": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "a9ad031ea5486a21acfc9aa7730fb35478853f8e4621b453a5a1ffba586ff0f0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "cc771d60ca363ad204e6df666d1a30aa5525f076a2bcc8dc00977f21ca8ddc96": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "6791b948f5d95e3820a5d810916fa7d4f4393ae4d6887f2991d1842ee3f67861": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "efb75b0491b1e2c8dea85a1840c7c1c886d78f4ed7fe6039ac7920be92ffde3c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "9e92734fc573db4b2019f6d3a5d5484d818ec1825a560636538b9e306aeb630f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "732118f72547c3700587cf572b6f06e4e793b767074a036dfec3a16cbd7a5224": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 250,
+  "eval_count": 24
+ },
+ "e547f3cb0a6941acf865ed62ce6143cf5b54250e25ebda5992b1323ac34cd931": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "3b102682a64084e742fdf01f9bcf751682c7b671b8090c2e56041ce4f623887f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "8204c993cbc80a35bd49e79809a8274c649b8bdce0c1a922c7a668d0ea790352": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "66d18406e952fd489037a1a663b4e4e10746042de5930c0616b513a0c38e3cfb": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "6ef80ec07631660c1bd3b7e9c59e74c866945ba40b1a4ad2b836149b9e3e234c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "80ed32ebee186c9142f1d5116240aef690b640eada19b22903036e1f46fca17f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "13998624e94ae1aed545fc16009fb92c584eaf55d974528ef908af2ddaba3725": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "2b95ebc969698c7bb1133959613d56bc4641190452f85f95245d7e0507c359e0": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "84c2af99c4d4227fed111ed3b6ef3c66ee68942a033529b77b7bb2c4147c601d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 251,
+  "eval_count": 24
+ },
+ "2ad183be9a301c7dcc17d993408aa2d9585e42e6604b0dccbb09341698226e6a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "d79941d9e8a790092ab7ef4782af9554bf0380fb8ffd3f79c88b1d046ff0547d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "ff0de80f18934a163bbbdc866e5ed667067bbce69b991543a7af0b19c91dc80f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "046b43c72ae51098681ca37e081cdc2980c0eae6de18c02fb3d642e066f8ad4d": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 254,
+  "eval_count": 24
+ },
+ "497dc85c6b17cf0250418dd258eec6ccc509d1680198659231ce8b091f679b3a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "e653d48916cffe03833ccef218b03f2018b26f492c7e724dc1d4c39a742a29f4": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 24
+ },
+ "1015f0a72fa6452fac9904941417af046c6883c8b46ed2ecfdbfdc00f09549e1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 253,
+  "eval_count": 23
+ },
+ "0d56312f5a64e759d58fb215234f598e9403aceeab9e2f4cfafd4266fbcd63a9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 24
+ },
+ "742ceff9e17ebce6809844078bad5279901ae1c136d6b7af076958a0f429d608": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "19b079212ddd02f2bfdf5c7ef8d7156169975c6528a3e6b839752660271485f8": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 242,
+  "eval_count": 24
+ },
+ "efbfee72b768f97c5e475c4f8a4d4f8c7a5895b39bd4f38864b87c9aa482717e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "es"
+  },
+  "prompt_eval_count": 255,
+  "eval_count": 24
+ },
+ "6bf25724d962b1b7d34918ca399e4b0bade9cdab929aa396e134ea4c09da65c3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 237,
+  "eval_count": 24
+ },
+ "672f024dad92c34cae42c0c216c60d2d14620ef0373ad3f6d9e7d046b68d206c": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 241,
+  "eval_count": 24
+ },
+ "576d963e632617227263ad91556f772e684e975ddb87ddbab5068ea41a5bb6a1": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 241,
+  "eval_count": 24
+ },
+ "fd894e7b3c37c73278d99c2e4f21782559f5d13d12e22ed4b6adad5a59c84ee7": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 232,
+  "eval_count": 24
+ },
+ "e89513355a317ff21daf1ddb3c5f4d53a2a2f9602bd4c7ac0ac58d059517dd4e": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 239,
+  "eval_count": 24
+ },
+ "3508ae337e15fb03e1badc6f16573a1947dc4d8d6f48e2d9702a80825eb4bb3b": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 239,
+  "eval_count": 24
+ },
+ "879cebb3ba0da57f1efbeab4c5c5c27415dd00f5454a30c17922d404f8b4778a": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 25
+ },
+ "f86122858d29022a54594205315d2e0465302381424545a7c54477cfa96c0b2f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "04e35068e93236d8f4d9c0d938dd0b337554fadd0717a3a0569da5514b4247b5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 241,
+  "eval_count": 24
+ },
+ "a33bc24e2a2abd8d5911d5dce440a9de16532394b587a114c5cf654793f664bd": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 248,
+  "eval_count": 25
+ },
+ "0c8626d8133e912a1b9331b3871336263cbcb4c3c8ad5999d427f88d4acc81c8": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 1.0,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ },
+ "40ad74794e3da170ff07df29dcf2069006cdf5a334ec221e2c0177db8f635dd9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "0c7f563f34a280475fb50598a44128836b839ec4d6314ad7f608398d7527e790": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 241,
+  "eval_count": 24
+ },
+ "4dcf7b24bb8b1f4336450cf97a0e0aef40f04d03f08a205a105fa291020edab9": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 243,
+  "eval_count": 24
+ },
+ "0cc627d8c8bdc3de77080f27a8556d090dd449adf9a011f22ac0f4dac6c3f659": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "bedbcf5d0b723a954904cd5d8ef9134258613fe977c8d46a79041164bd26cbe5": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 240,
+  "eval_count": 24
+ },
+ "f7dd7e6d259197ea99290c5c9f04c501a8f9a1652d1c845c4874c8126a6a5f3a": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 245,
+  "eval_count": 24
+ },
+ "10338c1a59f20b94fc35f6465d58bccb1c95b7012ee2e7a50ad061a559ee353c": {
+  "result": {
+   "label": "NOT_DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 25
+ },
+ "8387ac31199559e96c5b9fc703987dce5daf3c7cac2c59d15e493e942bc5a0c1": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 249,
+  "eval_count": 24
+ },
+ "aba7e3b13f595e0fe2a62408b23a9fb3eedded9b96d948a32fea147f4feda2f3": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 247,
+  "eval_count": 24
+ },
+ "91c7190630bfc1c962f2f6b38f4e533f7c64ca5c197472a6906dddf80e6eec2f": {
+  "result": {
+   "label": "DELETION",
+   "confidence": 0.95,
+   "language": "en"
+  },
+  "prompt_eval_count": 246,
+  "eval_count": 24
+ }
+}
