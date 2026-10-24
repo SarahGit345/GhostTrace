@@ -1,15 +1,72 @@
 # GhostTrace AI — HackerRank Orchestrate: a proof-carrying deletion-audit agent
 
-*HackerRank Orchestrate (October 2026), "Ghost Data Still Exists". The challenge contract is in
-[`problem_statement.md`](./problem_statement.md).*
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB.svg)
+![Tests](https://img.shields.io/badge/tests-18%20unit%20%2B%207%20adversarial-brightgreen.svg)
+![Offline](https://img.shields.io/badge/runs-fully%20offline-informational.svg)
+![Cost](https://img.shields.io/badge/LLM%20cost-%240-success.svg)
 
-> Don't trust a deletion success message. Check the evidence, trace every path that could bring the data
+> **Don't trust a deletion success message.** Check the evidence, trace every path that could bring the data
 > back, and produce a proof someone else can check.
 
-GhostTrace audits each deletion request in `dataset/deletion_requests.csv`. It decides
-`COMPLETE`, `INCOMPLETE` or `NOT_APPLICABLE`, and writes the ordered findings, remediation and verification steps to
-`output.csv`. A deterministic verifier makes the final call. A model can help read messy inputs, but it can never
-mark a deletion complete by itself.
+GhostTrace was built for **HackerRank Orchestrate (October 2026)**, challenge *"Ghost Data Still Exists"*
+(full brief: [`problem_statement.md`](./problem_statement.md)). A fictional retailer lost $2.4M when a customer it
+had "deleted" was still present across replicas, search indexes, support tickets, analytics, syncs and backups.
+
+For every deletion request, GhostTrace reads 94 heterogeneous evidence files (SQL snapshots, JSON, six log
+formats, PDFs and screenshots), resolves the person's current and historical identities, reconstructs what really
+happened in each system, and decides **`COMPLETE`**, **`INCOMPLETE`** or **`NOT_APPLICABLE`**, with the ordered
+findings, remediation and verification steps. A deterministic verifier makes the final call: a language model may
+help read messy inputs, but it can never mark a deletion complete.
+
+### Highlights
+
+- **Proof-carrying verdicts** — every claim cites the evidence file that proves it; missing proof never counts as deleted.
+- **Ghost hunting** — catches copies that survive in read replicas, failover databases, search indexes and exports.
+- **Resurrection paths** — finds active syncs and restorable backups that could bring deleted data back.
+- **Identity resolution** — follows old emails, phone numbers and hashes; decoy-safe matching.
+- **Multilingual intent** — rules plus an optional local open-source LLM (Ollama); no API keys, no cost.
+- **Reproducible** — deterministic, fully offline, about 2 seconds for 518 requests.
+
+## Demo
+
+```bash
+python code/demo.py                    # walkthrough of one audit (case_201)
+python code/demo.py --list             # other interesting cases to try
+python code/demo.py --case case_199    # e.g. "Complete" claimed, but the account still exists
+```
+
+Example (abridged) — a French-language request that the old workflow marked *partially complete*:
+
+```text
+-- 1. The request ----------------------------------------------------------
+  from      j.girard1079@yahoo.com
+  "Je demande la suppression définitive du compte associé à cette adresse e-mail. ..."
+  intent    rules+llm agree (deletion cue: suppression; llm conf 0.95)
+
+-- 4. Every copy found, and its state at audit time ------------------------
+  system               record               state         evidence     link
+  account_service      account_2933         PRESENT       evidence_82  identity
+  integration_service  data_flow_5688       ACTIVE        evidence_82  identity
+  search_service       search_5135          PRESENT       evidence_82  identity
+  support_platform     support_2863         IDENTIFIABLE  evidence_82  identity
+
+-- 6. Ordered steps written to output.csv ----------------------------------
+   1. FINDING      REPORT_REMAINING_RECORD    account_2933    <- evidence_82
+   2. FINDING      REPORT_REMAINING_RECORD    search_5135     <- evidence_82
+   3. FINDING      REPORT_EXPOSED_PII         support_2863    <- evidence_82
+   4. FINDING      REPORT_ACTIVE_DATA_FLOW    data_flow_5688  <- evidence_82
+   5. REMEDIATION  DISABLE_DATA_FLOW          data_flow_5688
+   6. REMEDIATION  DELETE_RECORD              account_2933
+   ...
+  12. VERIFICATION VERIFY_DATA_FLOW_DISABLED  data_flow_5688
+
+-- Verdict -----------------------------------------------------------------
+  workflow claimed PARTIALLY_COMPLETE  ->  GhostTrace verified INCOMPLETE
+```
+
+Across all 518 requests, **163 of the 254 the old workflow called "COMPLETE" still had data left or a way for it
+to come back.**
 
 ## Quick start
 
@@ -96,7 +153,11 @@ Steps are ordered as findings, then remediation, then verification. Within each 
 order in the problem statement, then `system_id`, then `resource_id`. Remediation therefore disables flows and blocks
 restores before any record is changed.
 
-## Evaluation (details: `code/evaluation/evaluation_report.md`)
+## Results
+
+Full details: [`code/evaluation/evaluation_report.md`](./code/evaluation/evaluation_report.md).
+
+Measured on the 32 public sample cases, which have published answers; the 518 evaluation cases are scored privately by HackerRank.
 
 | configuration (32 public samples) | status acc. | step F1 | exact sequence |
 |---|---|---|---|
@@ -115,11 +176,16 @@ restores before any record is changed.
 - The only remaining sample misses are records that appear in no participant-visible evidence.
 - Token use and cost are in `code/evaluation/usage_report.md`. The model is local and open-source, so the cost is $0.
 
-## Repository layout (submission)
+## Project structure
 
 ```
 README.md                       this file
+LICENSE                         MIT
+problem_statement.md            the challenge brief (HackerRank)
+dataset/                        challenge data (HackerRank)
+output.csv                      verdicts for all 518 requests
 code/main.py                    entry point
+code/demo.py                    single-case walkthrough
 code/requirements.txt
 code/ghosttrace/                model, extract, media, identity, lineage, intent, policy, audit, pipeline, report
 code/prompts/intent_classifier.md
@@ -138,3 +204,12 @@ code/evaluation/                main.py (scoring), metrics.py, adversarial.py, v
   verifier.
 - **The audit covers only the supplied evidence.** GhostTrace cannot vouch for copies that exist outside the supplied
   dataset.
+
+## License and acknowledgements
+
+The GhostTrace source code is released under the [MIT License](./LICENSE) © 2026 Sarah Thomas.
+
+The challenge brief (`problem_statement.md`) and the data in `dataset/` were provided by
+[HackerRank](https://www.hackerrank.com) for HackerRank Orchestrate (October 2026). They are fictional, remain the
+property of their authors, and are included only so the results can be reproduced; they are not covered by the
+MIT License.
